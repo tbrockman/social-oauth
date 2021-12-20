@@ -1,4 +1,4 @@
-# ʕ •́؈•̀) `workers-typescript-template`
+Most code ported from https://github.com/utterance/utterances-oauth
 
 A batteries included template for kick starting a TypeScript Cloudflare worker project.
 
